@@ -1,7 +1,7 @@
 {
 	"auto_complete": false,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -31,6 +31,7 @@
 	"ignored_packages":
 	[
 		"Pylinter",
+		"SideBarEnhancements",
 		"Vintage"
 	],
 	"line_padding_bottom": 0,
@@ -42,8 +43,9 @@
 	"scroll_past_end": false,
 	"show_full_path": true,
 	"show_minimap": false,
-	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"sublimelinter": false,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
